@@ -1,6 +1,6 @@
 '''
-It has two simple functions sum_two_numbers and hello.
-Then it runs hello function twice.
+The module has two simple functions sum_two_numbers and hello.
+Next it runs hello function twice.
 '''
 
 def sum_two_numbers(a, b):
