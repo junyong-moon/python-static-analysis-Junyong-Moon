@@ -1,3 +1,7 @@
+'''
+This module implements three functions to demonstrate mypy implementation.
+'''
+
 def add(a: int, b: int) -> int:
     """Adds two integers."""
     return a + b
